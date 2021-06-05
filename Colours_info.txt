@@ -1,0 +1,17 @@
+Main URB Purple:
+rgb(52,35,72)
+#342348
+
+URB light purple
+rgb(133,112,155)
+#85709B
+rgba(133, 112, 155, 1)
+
+Very light purple
+#d8d2e0
+rgb(216, 210, 224)
+hsl(266, 18%, 85%)
+
+
+
+<a href="https://tunein.com/station/?stationid=18849&amp;utm_medium=referral&amp;utm_content=s18849&amp;utm_source=geminiEmbedArt&amp;st=undefined" target="_blank" class="artwork" id="artwork"><div class="artworkOverlay"><div class="play-button loaded"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="12"></circle><path class="svg-icon" d="M9.56,16.86a.48.48,0,0,0,.78.38l6.14-4.85a.49.49,0,0,0,.19-.38.47.47,0,0,0-.19-.38L10.34,6.78a.46.46,0,0,0-.3-.11.54.54,0,0,0-.21,0,.49.49,0,0,0-.27.44Z" fill-rule="evenodd"></path></svg></div></div><img src="https://cdn-profiles.tunein.com/s18849/images/logoq.png?t=154098" alt="Media Art"></a>
