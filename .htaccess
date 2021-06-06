@@ -1,0 +1,18 @@
+# mod_rewrite starts here
+
+# code from Dani Krossing https://www.youtube.com/watch?v=-6LyG9I-FPc
+# this code removes the .html suffix from pages within the site
+
+RewriteEngine on
+
+# does not apply to existing directories, meaning that id the folder esists on the server then don't change anything and don't run the rule
+
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# check for file in directory with .html extension
+
+RewriteCond %{REQUEST_FILENAME}\.html -f
+
+# display the page with the .html extension
+
+RewriteRule ^(.*)$ $1.html [NC,L]
